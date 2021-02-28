@@ -1,9 +1,9 @@
 module.exports = {
-  name: 'London',
-  shortName: 'London',
-  description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
-  url: 'https://gatsby-london.netlify.com', // Domain of your site without prefix!
+  name: 'Mimi&Corin',
+  shortName: 'M&C',
+  description: "Mimi & Corin's wedding | Brooklyn 2021",
+  url: 'https://mimi-corin.netlify.com', // Domain of your site without prefix!
   prefix: '/',
-  author: 'Imed Adel',
-  twitter: 'Imed_Adel'
+  author: 'Imed Adel / modified Corin Faife',
+  twitter: 'corintxt'
 }
